@@ -1,0 +1,13 @@
+
+
+
+
+a{
+    text-decoration: none;
+    color: #ffc107;
+    transition: 1s all ease-in-out;
+}
+a:hover{
+    color: #7a5c00;
+
+}
